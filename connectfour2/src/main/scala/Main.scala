@@ -2,7 +2,7 @@
   println("Hello world!")
   println(msg)
 
-  println("Wir versuchen einen einfach Merge Konlikt zu erzeugen")
+  println("Wir erzeugen einen einfach Merge Konlikt")
 
 
 def msg = "I was compiled by Scala 3. :)"
